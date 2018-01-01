@@ -1,0 +1,23 @@
+#gameover {
+    margin-left: 200px;
+    font-size: 150px;
+}
+#restart {
+    
+    margin-left: 60px;
+    margin-top: 40px;
+}
+#quit {
+   margin-left: 100px;
+   margin-top: 40px;
+}
+#score {
+   margin-left: 200px;
+   font-size: 50px;
+   margin-top: 50px;
+}
+#scoreKoopa {
+   margin-left: 450px;
+   font-size: 50px;
+   margin-top: -108px;
+}
